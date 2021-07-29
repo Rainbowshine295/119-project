@@ -1,0 +1,41 @@
+body {
+    background-image: url("polka dots.png");
+    font-family: 'Yomogi', cursive;
+}
+
+.header {
+    box-shadow: 5px 5px 5px gray;
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+}
+.heading_div {
+    float: none;
+    background-color: lightgreen;
+    color: seagreen;
+    border-radius: 25px;
+    padding: 10px;
+    box-shadow: 5px 5px 5px gainsboro;
+}
+.heading_div2 {
+    font-size: 18px;
+}
+.copy_right_footer {
+    position: fixed;
+    color: mistyrose;
+    font-size: 20px;
+    font-weight: bold;
+    bottom: 0;
+    width: 100%;
+    background-color: mediumblue;
+    line-height: 3;
+    text-align: center;
+    font-family: 'Mali', cursive;
+}
+
+canvas {
+    border: 5px dashed midnightblue;
+    border-radius: 20px;
+    margin-top: 115px;
+    box-shadow: 5px 5px 5px gainsboro;
+}
